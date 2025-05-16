@@ -13,6 +13,6 @@ public class Book {
 	private String name;
 	private Double price;
 	private Integer amount;
-	private Boolean pub;
+	private Boolean pub = false;
 
 }
